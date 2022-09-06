@@ -15,15 +15,6 @@ k)	Keeping record for payments
 l)	Confirming and decline bookings
 
 
-The user on the other hand is given a usertype 0 which makes it different dashboard from that of admin which is 1
-The user have the following privileges:
-	Login
-	See available hostels
-	Book hostels
-	Read rules and regulations
-	Send complains to the admin incase of any complain they have
-	Manage their profiles
-
 
 The following are the pages for the project
 ![image](https://user-images.githubusercontent.com/112067611/188542622-1541f4e3-3121-4356-a0ac-2744718cec80.png)
@@ -79,6 +70,34 @@ The following are the pages for the project
 
 
 ![image](https://user-images.githubusercontent.com/112067611/188543184-645a4a84-3893-4eb1-bd8b-acaf1db40ac8.png)
+
+
+
+The main purpose of the user dashboard is to communicate the most important information for the user, in a very simple and easy to scan and understand way. It should save the user time and help them quickly read patterns and trends to make decisions.
+
+The user on the other hand is given a usertype 0 which makes it different dashboard from that of admin which is 1
+The user have the following privileges:
+	Login
+	See available hostels
+	Book hostels
+	Read rules and regulations
+	Send complains to the admin incase of any complain they have
+	Manage their profiles
+![image](https://user-images.githubusercontent.com/112067611/188543465-fb96c413-8cb2-4706-bfde-aa0c1fda6364.png)
+
+![image](https://user-images.githubusercontent.com/112067611/188543609-0d361f0a-fc04-4afb-a2b6-3ab854c8c86b.png)
+
+![image](https://user-images.githubusercontent.com/112067611/188543646-41841982-4d8e-45d6-bfba-908198867130.png)
+
+
+My design is rensponsive to both mobile and android view
+![image](https://user-images.githubusercontent.com/112067611/188543769-ca3cbb2f-7d59-41bb-9166-13b1cc994584.png)
+
+![image](https://user-images.githubusercontent.com/112067611/188543853-eabeec33-ac37-491a-b11f-f1ecf07ebf09.png)
+
+![image](https://user-images.githubusercontent.com/112067611/188543937-db8ec3dc-33c2-4afd-aae2-e89e7b91a34e.png)
+
+
 
 
 
