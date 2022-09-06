@@ -53,5 +53,35 @@ The following are the pages for the project
 
 
 
+![image](https://user-images.githubusercontent.com/112067611/188542907-475b6c22-40c5-4df9-9ace-2e45590fb7e0.png)
+
+![image](https://user-images.githubusercontent.com/112067611/188542950-edaf437f-8dc1-4d35-b109-252da535e847.png)
+
+![image](https://user-images.githubusercontent.com/112067611/188542976-fbf50c66-72f5-42c2-85ef-224b6233cc76.png)
+
+![image](https://user-images.githubusercontent.com/112067611/188542998-b670f7e3-72e9-4c2a-b8c0-c80098cc3118.png)
+
+
+![image](https://user-images.githubusercontent.com/112067611/188543038-7b59c257-b1c0-41d4-a7ec-3ae4062a8119.png)
+
+![image](https://user-images.githubusercontent.com/112067611/188543058-f1faffd7-90b7-4f2c-bedf-99a0cdf4a75c.png)
+
+
+![image](https://user-images.githubusercontent.com/112067611/188543077-5d3e9a35-7f16-464a-bdbb-0870bd8413c1.png)
+
+
+![image](https://user-images.githubusercontent.com/112067611/188543116-30df9cda-ec77-41ee-848e-bb0a738c4fbd.png)
+
+
+![image](https://user-images.githubusercontent.com/112067611/188543148-a18c05b7-040d-4a11-b3a2-347d5d92587b.png)
+
+![image](https://user-images.githubusercontent.com/112067611/188543162-a3519684-838d-4dc4-9287-31a77be10a83.png)
+
+
+![image](https://user-images.githubusercontent.com/112067611/188543184-645a4a84-3893-4eb1-bd8b-acaf1db40ac8.png)
+
+
+
+
 
 
